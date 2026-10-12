@@ -19,3 +19,7 @@
 @media(max-width:1100px){.device-art{min-height:440px}}
 @media(max-width:760px){.button{font-size:12px}.nav-cta{font-size:11px;padding:10px 12px}.hero-actions .text-link{font-size:12px}.hero-actions{gap:17px}.device-art{min-height:350px;margin-top:15px;margin-bottom:15px}.device-art img{width:96%;max-width:400px}.device-word{font-size:65px;top:0}.device-art:after{bottom:45px}.device-caption{font-size:7px}}
 @media(max-width:380px){.nav-cta{font-size:10px}.hero-actions .button{font-size:12px}.hero-actions{gap:15px}.hero-actions .text-link{font-size:11px}}
+
+/* Setas vetoriais: independentes da fonte e do teclado de emojis. */
+.arrow-icon{display:inline-block;width:1em;height:1em;min-width:12px;min-height:12px;vertical-align:-.12em;flex-shrink:0;overflow:visible;stroke:currentColor;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round}
+.button .arrow-icon,.nav-cta .arrow-icon{width:16px;height:16px}.benefit .arrow-icon{width:13px;height:13px}
